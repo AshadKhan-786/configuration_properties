@@ -33,10 +33,10 @@ management:
       exposure:
         include: '*'
 
-# App messages info
+# Application messages goes here
 auth-service:
-  messages:
-    userReg : User Registered Successfully
-    userRegErr: User Registration Failed
-    login: Yes
-    loginErr: No
+ messages: 
+  userReg: User Registered Successfully
+  userRegErr: User Registration Failed
+  login: Login Success
+  loginErr: Invalid Credentials  
