@@ -45,4 +45,6 @@ product-service:
   productSelectErr: Failed to retrieve Product
   productDelete: Product deleted successfully
   productDeleteErr: Failed to delete Products
+  stockUpdate: Stock Updated Successfully
+  stockUpdateErr: Failed to update stock
   loginErr: Invalid Credentials  
